@@ -1,6 +1,6 @@
 # - 👋 Hi there, I am João Guilherme 
 
-- 🙂 Studying HTML, CSS and JavaScript.
+- 🙂 Studying HTML, CSS, JavaScript, Angular, TypeScript.
 - 👀 Contact me by email: jg-pereira101@hotmail.com
 - 🙋‍♂️ Pronuns: He/Him
 
