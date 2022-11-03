@@ -28,3 +28,9 @@
    <a href="https://outlook.live.com/mail/0/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   
 </div>
+
+  <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/thfrod/count.svg" /></p>
+<p align="center">
+Comeback soon 😄
+</p>
