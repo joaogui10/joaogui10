@@ -3,7 +3,7 @@
 - 🙂 Always wanting to learn more about: HTML, CSS, JavaScript, Angular, TypeScript.
 - 👀 Contact me by email: jg-pereira101@hotmail.com
 - 🙋‍♂️ Pronuns: He/Him
-- 📱 Contact: (11) 94029-7721
+- 📱 Contact: 55+ (11) 94029-7721
 
 <div align="center">
   <a href="https://github.com/joaogui10">
